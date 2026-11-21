@@ -8,6 +8,13 @@ Repository for EDS 220: Working with Environmental Datasets Homework 4
 
 **Repository Structure**
 
+ - EDS220-HWK4/
+     - data/
+         - landsat8-2025-02-23-palisades-eaton.nc
+     - .gitignore
+     - hwk4-task2-false-color-NAIR.ipynb
+     - README.md
+
 **Data**
 
 **References**
